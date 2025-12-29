@@ -1,3 +1,5 @@
+**Live Demo:** [https://grayappio-main-wmpnfz95eearztjbgeo72e.streamlit.app/](https://grayappio-main-wmpnfz95eearztjbgeo72e.streamlit.app/)   
+
 An intelligent vision analysis system using Amazon Bedrock for content moderation and product description generation from images.
 
 ## Project Structure
