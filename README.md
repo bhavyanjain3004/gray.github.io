@@ -37,8 +37,9 @@ An intelligent vision analysis system using Amazon Bedrock for content moderatio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TapVision.git
-cd TapVision
+git clone
+cd
+
 ```
 
 2. Create virtual environment:
